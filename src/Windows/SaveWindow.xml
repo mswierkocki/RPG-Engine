@@ -1,0 +1,9 @@
+<Window w="500" h="180" dock="1,1">
+  <Texture file="Edytor\\obj_edit.png" w="500" h="180" dock="1,1"/>
+  <ImageButton name="backButton" file="Edytor\\b_exit.png" dock="2,2" offsetPX="7,5" scale="1" />
+  <MixedButton name="overSaveButton" file="Edytor\\txtbutton.png" width="150" text="OVER SAVE"  dock="1,0" offsetPX="-160,25" scale="0.8f"/>
+  <MixedButton name="newSaveButton" file="Edytor\\txtbutton.png" width="150" text="SAVE AS NEW" dock="1,0" offsetPX="0,25" scale="0.8f"/>
+  <MixedButton name="cancleButton" file="Edytor\\txtbutton.png" width="150" text="NIE"          dock="1,0" offsetPX="160,25" scale="0.8f"/>
+  <TextBox name="name" width="150" dock="1,0" offsetPX="0,60" scale="0.8f"/>
+  <Label text = "Do you want to save the map?"  dock = "1,2" offsetPX ="0,-20" color="193,191,191" />
+</Window>

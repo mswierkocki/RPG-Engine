@@ -1,0 +1,27 @@
+<Textures count="25">
+  <Texture id="0" file="Textures\flag01.png" name="flag01" />
+  <Texture id="1" file="Textures\redbutton.png" name="redbutton" />
+  <Texture id="2" file="Textures\c1.tga" name="c1" />
+  <Texture id="3" file="Textures\c2.tga" name="c2" />
+  <Texture id="4" file="Textures\exit.tga" name="exit" />
+  <Texture id="5" file="Textures\exit2.tga" name="exit2" />
+  <Texture id="6" file="Textures\house.tga" name="house" />
+  <Texture id="7" file="Textures\player2.tga" name="player2" />
+  <Texture id="8" file="Textures\dziad\dziad_ass.png" name="dziad_ass" />
+  <Texture id="9" file="Textures\dziad\dziad_run_1.png" name="dziad_run_1" />
+  <Texture id="10" file="Textures\dziad\dziad_run_2.png" name="dziad_run_2" />
+  <Texture id="11" file="Textures\dziad\dziad_run_3.png" name="dziad_run_3" />
+  <Texture id="12" file="Textures\dziad\dziad_run_4.png" name="dziad_run_4" />
+  <Texture id="13" file="Textures\dziad\dziad_run_5.png" name="dziad_run_5" />
+  <Texture id="14" file="Textures\dziad\dziad_run_6.png" name="dziad_run_6" />
+  <Texture id="15" file="Textures\dziad\dziad_run_7.png" name="dziad_run_7" />
+  <Texture id="16" file="Textures\dziad\dziad_run_8.png" name="dziad_run_8" />
+  <Texture id="17" file="Textures\dziad\dziad_stand_1.png" name="dziad_stand_1" />
+  <Texture id="18" file="Textures\dziad\dziad_stand_2.png" name="dziad_stand_2" />
+  <Texture id="19" file="Textures\dziad\dziad_stand_3.png" name="dziad_stand_3" />
+  <Texture id="20" file="Textures\dziad\dziad_stand_4.png" name="dziad_stand_4" />
+  <Texture id="21" file="Textures\dziad\dziad_stand_5.png" name="dziad_stand_5" />
+  <Texture id="22" file="Textures\dziad\dziad_stand_6.png" name="dziad_stand_6" />
+  <Texture id="23" file="Textures\dziad\dziad_stand_7.png" name="dziad_stand_7" />
+  <Texture id="24" file="Textures\dziad\dziad_stand_8.png" name="dziad_stand_8" />
+</Textures>

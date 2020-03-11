@@ -1,0 +1,26 @@
+<Window w="220" h="350" dock="2,0" offsetPX="-20,30">
+  <Texture file="Edytor\\viewer.png" w="220" h="350" />
+ 
+ 
+  <Label text="TERRAIN TOOLS" dock="0,2" offsetPX="25,-12" scale="1" color="193,191,191" />
+  <ImageButton name="backButton" file="Edytor\\b_exit.png" dock="2,2" offsetPX="7,5" scale="0.8" />
+  
+  <Texture file="Edytor\\sepbar.png" w="190" h="25" dock="1,2" offsetPX="0,-35" />
+  <Texture file="Edytor\\sepbar.png" w="190" h="25" dock="1,0" offsetPX="0,100" />
+  
+  <MixedButton name="brushButton" file="Edytor\\txtbutton2.png" width="55" text ="BRUSH" dock = "1,2" offsetPX ="-55,-70" />
+  <MixedButton name="eraseButton" file="Edytor\\txtbutton.png" width="55" text ="ERASE" dock = "1,2" offsetPX ="-55,-110" />
+  <MixedButton name="cutButton" file="Edytor\\txtbutton.png" width="55" text ="CUT" dock = "1,2" offsetPX ="-55,-150" />
+  <MixedButton name="baseButton" file="Edytor\\txtbutton2.png" width="55" text ="BASE" dock = "1,2" offsetPX ="-55,-190" />
+  
+  <ImageButton name="x1Button" file="Edytor\\1x1.png" scale=".23f" dock = "2,2" offsetPX ="-30,-68" />
+  <ImageButton name="x2Button" file="Edytor\\2x2.png" scale=".23f" dock = "2,2" offsetPX ="-30,-98" />
+  <ImageButton name="x3Button" file="Edytor\\3x3.png" scale=".23f" dock = "2,2" offsetPX ="-30,-153" />
+		
+  <Texture file="Edytor\\lotewa.png" w="74" h="74" dock="1,0" offsetPX="0,22" /> 
+  
+  <Field name="field" w="64" h="64" dock="1,0" offsetPX="0,26" />
+  <MixedButton name="lButton" file="Edytor\\txtbutton.png" text ="<" dock = "1,0" offsetPX ="-45,40" />
+  <MixedButton name="rButton" file="Edytor\\txtbutton.png" text =">" dock = "1,0" offsetPX ="45,40" />
+  
+</Window>

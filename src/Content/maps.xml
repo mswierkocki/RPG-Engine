@@ -1,0 +1,11 @@
+<Maps count="2">
+  <Map id="0" w="32" h="32" name="Map1">
+    <Objects count="1">
+      <Object id="0" x="640" y="486" scale="1">
+      </Object>
+    </Objects>
+  </Map>
+  <Map id="1" w="32" h="32" name="Map2">
+    <Objects count="0" />
+  </Map>
+</Maps>

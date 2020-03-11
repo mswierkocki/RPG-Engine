@@ -1,0 +1,27 @@
+<Window w="220" h="350" dock="2,2" offsetPX="5,-80">
+  <Texture file="Edytor\\viewer.png" w="220" h="350" />
+  
+  <Label name="title" text="VIEWER" dock="0,2" offsetPX="25,-12" scale="1" color="193,191,191" />
+  
+  <Field name="field" w="170" h="170" dock="1,2" offsetPX="0,-56" />
+  <Texture file="Edytor\\lotewa.png" w="190" h="195" dock="1,2" offsetPX="0,-45" />
+  
+  <Label text="name:"         dock="0,0" offsetPX="20,89" scale="0.8f" color="193,191,191" />
+  <Label name="name" text="" dock="0,0" offsetPX="60,89" scale="0.8f" color="255,201,14" />
+  <Label text="TAG:"          dock="0,0" offsetPX="27,71" scale="0.8f" color="193,191,191" />
+  <Label name="tag" text=""  dock="0,0" offsetPX="60,71" scale="0.8f" color="255,201,14" />
+  <Label text="scale:" dock="0,0" offsetPX="30,40" scale="0.8f" color="193,191,191" />
+  <Label text="pos:" dock="0,0" offsetPX="32,23" scale="0.8f" color="193,191,191" />
+  
+  <Texture file="Edytor\\sepbar.png" w="190" h="25" dock="1,0" offsetPX="0,100" />
+  <Texture file="Edytor\\sepbar.png" w="190" h="25" dock="1,0" offsetPX="0,46" />
+  <Texture file="Edytor\\sepbar.png" w="190" h="25" dock="1,2" offsetPX="0,-35" />
+  
+  <MixedButton name="lButton" file="Edytor\\txtbutton.png" text="<<<" width="15"  scale="0.5" dock="0,1" offsetPX="30,-61" />
+  <TextBox name="nr" width="20" dock="0,1" offsetPX="50,-61" enable="0" />
+  <MixedButton name="rButton" file="Edytor\\txtbutton.png" text=">>>" width="15"  scale="0.5" dock="0,1" offsetPX="72,-61" />
+  <MixedButton name="playButton" file="Edytor\\txtbutton.png" text="Play / Stop" width="70" scale="0.5" dock="0,1" offsetPX="115,-61" />
+  
+  <TextBox name="scaleBox" width="50" dock="0,0" offsetPX="65,35" scale="0.8f"/>
+  
+</Windlow>

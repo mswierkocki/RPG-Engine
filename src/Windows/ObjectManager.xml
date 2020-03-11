@@ -1,0 +1,16 @@
+<Window w="316" h="827" dock="0,2" offsetPX="5,-80">  
+  <Texture file="Edytor\\obj_men.png" w="316" h="827" dock="1,1" offsetPX="0,0" />
+  <Texture file="Edytor\\sepbar.png" w="290" h="30" dock="1,2" offsetPX="0,-45" />
+  <Texture file="Edytor\\sepbar.png" w="290" h="30" dock="1,0" offsetPX="0,50" />
+  <Texture file="Edytor\\sepbar.png" w="290" h="30" dock="1,0" offsetPX="0,90" />
+  <MixedButton name="o_delButton" file="Edytor\\txtbutton.png"    width="68" text="DEL"    dock="0,0" offsetPX="15,25" scale="0.8f"/>
+  <MixedButton name="o_editButton" file="Edytor\\txtbutton.png"   width="68" text="EDIT"   dock="0,0" offsetPX="86,25" scale="0.8f"/>
+  <MixedButton name="o_importButton" file="Edytor\\txtbutton.png" width="68" text="NEW" dock="0,0" offsetPX="157,25" scale="0.8f"/>
+  <MixedButton name="o_addButton" file="Edytor\\txtbutton2.png"   width="68" text="ADD"    dock="0,0" offsetPX="228,25" scale="0.8f"/>
+  <ImageButton name="o_backButton" file="Edytor\\b_exit.png" dock="2,2" offsetPX="7,5" scale="0.8" />
+  <ImageButton name="o_minMaxButton" file="Edytor\\minim.png" dock="2,2" offsetPX="-25,3" scale="0.6" /> 
+  <MixedButton name="o_searchButton" file="Edytor\\txtbutton.png" text="F" dock="0,0" offsetPX="268,72" scale="0.8" width="30"/>
+  <TextBox name="o_filtr" width="250" dock="0,0" offsetPX="15,77" scale="0.8f"/>
+  <List name="o_select" width="290" max="41" dock="0,2" offsetPX="15,-60" scale="0.8f"/>
+  <Label text="OBJECT MANAGER" dock="0,2" offsetPX="15,-17" scale="1" color="193,191,191" />
+<Window>

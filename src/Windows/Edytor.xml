@@ -1,0 +1,24 @@
+<Window>
+  <!--Texture name="bar" file="Edytor\\panel.png" w="400" h="30" dock="1,2" /-->
+  <ImgHintButton name="newMapButton" file="Edytor\\ic_map_new.png" hint="New Map"    scale="0.5f"   dock="0,2" offsetPX="10,-8" />
+  <ImgHintButton name="saveAsButton" file="Edytor\\ic_save_as.png" hint="Save as..." scale="0.5f"   dock="0,2" offsetPX="45,-8" />
+  <ImgHintButton name="oldMapButton" file="Edytor\\ic_open.png" hint="Open Map"   scale="0.5f"    dock="0,2" offsetPX="80,-8" />
+  <ImgHintButton name="saveButton" file="Edytor\\ic_save.png"   hint="Save"    scale="0.5f"        dock="0,2" offsetPX="135,-8" />
+  <ImgHintButton name="properties" file="Edytor\\ic_prop.png"   hint="Properties"    scale="0.5f"        dock="0,2" offsetPX="170,-8" />
+  <ImgHintButton name="mapSettings" file="Edytor\\ic_map_set.png"   hint="Map Settings"    scale="0.5f"        dock="0,2" offsetPX="205,-8" />
+  <ImgHintButton name="objectManagerButton" file="Edytor\\ic_obj_men.png" hint="Object Manager" scale="0.5f"   dock="0,2" offsetPX="260,-8" />
+  <ImgHintButton name="scriptEditor" file="Edytor\\ic_script_men.png"   hint="Script Editor"    scale="0.5f"        dock="0,2" offsetPX="295,-8" />
+  <ImgHintButton name="objectListButton" file="Edytor\\ic_obj_list.png"   hint="Scene Manager"    scale="0.5f"        dock="0,2" offsetPX="330,-8" />
+  <ImgHintButton name="viewButton" file="Edytor\\ic_info.png" hint="Object Viewer" scale="0.5f"   dock="0,2" offsetPX="365,-8" />
+  <ImgHintButton name="texturesButton" file="Edytor\\ic_tex_men.png" hint="Texture Browser" scale="0.5f"   dock="0,2" offsetPX="400,-8" />
+  <ImgHintButton name="terrainButton" file="Edytor\\ic_terr.png" hint="Terrain Tools" scale="0.5f"   dock="0,2" offsetPX="435,-8" />
+  
+  <ImgHintButton name="playButton" file="Edytor\\play.png" hint="Play" scale="0.3f"   dock="1,2" offsetPX="170,-14" />
+  <ImgHintButton name="stopButton" file="Edytor\\stop.png" hint="Stop" scale="0.25f"   dock="1,2" offsetPX="200,-15" />
+  <ImgHintButton name="resetButton" file="Edytor\\refresh.png" hint="Reset" scale="0.25f"   dock="1,2" offsetPX="230,-15" />
+  
+  <ImgHintButton name="gridButton" file="Edytor\\grid_b.png" hint="Grid" scale=".5f"   dock="2,2" offsetPX="0,-65" />
+  <ImageButton name="zoomInButton" file="Edytor\\plus.png" dock="2,2" offsetPX="-50,-35" scale="0.5f"/>
+  <ImageButton name="zoomOutButton" file="Edytor\\minus.png" dock="2,2" offsetPX="-24,-35"  scale="0.5f"/>
+  <ImageButton name="zoom100Button" file="Edytor\\100.png" dock="2,2" offsetPX="-87,-35"  scale="0.5f"/>
+</Window>

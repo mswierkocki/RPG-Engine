@@ -1,0 +1,5 @@
+<Objects count="1">
+  <Object id="0" name="dziad">
+    <Animation id="-1" texture="10" framecount="32" framespeed="0.03125" name="dziad ass" />
+  </Object>
+</Objects>
