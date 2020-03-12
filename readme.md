@@ -19,3 +19,5 @@ Editor capatibilities:
 ## Showcase:
 ![](Intro.gif)
 
+*** 
+Technologies: C++, OpenGL GLFW
